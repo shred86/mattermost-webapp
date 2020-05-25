@@ -3602,7 +3602,7 @@
   "user.settings.general.currentEmail": "Current Email",
   "user.settings.general.currentPassword": "Current Password",
   "user.settings.general.email": "Email",
-  "user.settings.general.emailGitlabCantUpdate": "Login occurs through P1 SSO. [Click here](!http://sso.collab.cdl.af.mil) to update.",
+  "user.settings.general.emailGitlabCantUpdate": "Login occurs through P1 SSO ({email}). [Click here](!http://sso.collab.cdl.af.mil) to update.",
   "user.settings.general.emailGoogleCantUpdate": "Login occurs through Google. Email cannot be updated. Email address used for notifications is {email}.",
   "user.settings.general.emailHelp1": "Email is used for sign-in, notifications, and password reset. Email requires verification if changed.",
   "user.settings.general.emailHelp3": "Email is used for sign-in, notifications, and password reset.",
